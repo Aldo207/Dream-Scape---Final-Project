@@ -1,1 +1,7 @@
 print("Hola Mundo");
+
+
+int speed = 1000000;
+float jumpForce = 5000000;
+
+
